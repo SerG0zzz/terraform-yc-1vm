@@ -1,0 +1,1 @@
+# terraform-yc-1vm
